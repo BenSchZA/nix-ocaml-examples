@@ -1,0 +1,16 @@
+{
+  "fetch": {
+    "args": {
+      "owner": "timbertson",
+      "repo": "opam2nix-packages",
+      "rev": "2d94d74c40aa0601be4e1d608cd49fee9feb0c19",
+      "sha256": "0mhsz22fqmd52dlf9maqsvylw946pi99pjiav3iy1ijq9bxqmywr"
+    },
+    "fn": "fetchFromGitHub",
+    "localRepo": "/home/travis/build/timbertson/opam2nix-packages",
+    "owner": "timbertson",
+    "repo": "opam2nix-packages",
+    "rev": "2d94d74c40aa0601be4e1d608cd49fee9feb0c19",
+    "type": "fetchFromGitHub"
+  }
+}

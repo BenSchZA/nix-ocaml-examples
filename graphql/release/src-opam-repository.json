@@ -1,0 +1,16 @@
+{
+  "fetch": {
+    "args": {
+      "owner": "ocaml",
+      "repo": "opam-repository",
+      "rev": "88a0a1f03c889a62cc078b7186cdc9c1f3699259",
+      "sha256": "0g224fjh8vbkikffxs3k6026pd8370fz4i1iqydf7ly7wb8i9nfm"
+    },
+    "fn": "fetchFromGitHub",
+    "localRepo": "../../opam-repository",
+    "owner": "ocaml",
+    "repo": "opam-repository",
+    "rev": "88a0a1f03c889a62cc078b7186cdc9c1f3699259",
+    "type": "fetchFromGitHub"
+  }
+}

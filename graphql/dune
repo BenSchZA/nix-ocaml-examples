@@ -1,0 +1,3 @@
+(executable
+ (name main)
+ (libraries graphql-cohttp graphql-lwt cohttp-lwt-unix cohttp-lwt))
